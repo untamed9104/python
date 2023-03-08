@@ -10,6 +10,6 @@ while number < 10 :
 number = 1
 
 
-while number < 100 :
+while number < 101 :
     print(number)
     number +=1
